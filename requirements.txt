@@ -1,0 +1,14 @@
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+langchain-community-vectorstores
+langchain-core
+fastembed
+oracledb
+oraclevs
+sentence-transformers
+array
+time
+oci
+streamlit
